@@ -2,7 +2,7 @@
 
 An open source group chat application built using  Node.js and MongoDB. 
 
-# <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" width="40" />
+# <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" width="80" />
 
 ## Installation
 
@@ -19,7 +19,7 @@ git clone https://github.com/RatulGhosh/chat_room
 cd chat_room
 npm install
 node app.js
-
+```
 
 
 ### License
