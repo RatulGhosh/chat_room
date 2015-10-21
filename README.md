@@ -2,7 +2,7 @@
 
 An open source group chat application built using  Node.js and MongoDB. 
 
-[![MIT License][license-image]][license-url]
+# <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" width="40" />
 
 ## Installation
 
@@ -27,6 +27,4 @@ node app.js
 Note that chat_room is distributed under the [MIT License](http://opensource.org/licenses/MIT).
 
 
-[license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
-[license-url]: LICENSE
 
