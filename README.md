@@ -1,2 +1,32 @@
-# chat_room
-A group chat application built using Node.js , Socket.io and MongoDB
+# <img src="https://raw.githubusercontent.com/RatulGhosh/chat_room/master/images/icon.jpg" width="40" /> Rocket Chat
+
+An open source group chat application built using  Node.js and MongoDB. 
+
+[![MIT License][license-image]][license-url]
+
+## Installation
+
+Requirements:
+
+* [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* [Node](nodejs.org)
+* [MongoDB](https://www.mongodb.org)
+
+Clone and start the app:
+
+```sh
+git clone https://github.com/RatulGhosh/chat_room
+cd chat_room
+npm install
+node app.js
+
+
+
+### License
+
+Note that chat_room is distributed under the [MIT License](http://opensource.org/licenses/MIT).
+
+
+[license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
+[license-url]: LICENSE
+
