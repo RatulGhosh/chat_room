@@ -1,7 +1,8 @@
 # <img src="https://raw.githubusercontent.com/RatulGhosh/chat_room/master/images/icon.jpg" width="40" /> Chat Room
 
-An open source group chat application built using  Node.js and MongoDB. 
+An open source group chat application built using  Node.js and MongoDB.
 
+The app is hosted on heroku.
 [Check it here](http://groupchatroom1.herokuapp.com/)
 
 # <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" width="80" />
