@@ -2,6 +2,8 @@
 
 An open source group chat application built using  Node.js and MongoDB. 
 
+[Check it here : ](http://mysterious-atoll-1815.herokuapp.com/)
+
 # <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" width="80" />
 
 ## Installation
